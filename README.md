@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Simões and I'm a Control and Automation Engineering Student, from Brazil</p>
+<p align="left">My name is Lucas Simões and I'm a Control and Automation Engineering Engineer, from Brazil</p>
 
 ###
 
